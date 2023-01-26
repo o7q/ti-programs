@@ -1,0 +1,12 @@
+Prompt X
+Prompt Y
+X→A
+Y→C
+Prompt X
+Prompt Y
+X→B
+Y→D
+(A-B)^2+(C-D)^2→E
+Disp "Distance",E,√(E)
+Disp "Midpoint",(A+B)/2,(C+D)/2
+Disp "Slope",C-D,A-B

@@ -1,0 +1,8 @@
+Prompt A
+Prompt B
+Prompt C
+­B→X
+(B)^2-4(A)(C)→Y
+2A→Z
+Disp "Steps",X,Y,Z
+Disp "XX",(X+√(Y))/Z,(X-√(Y))/Z
