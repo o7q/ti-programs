@@ -1,8 +1,0 @@
-Prompt A
-Prompt B
-Prompt C
-(B/2)→X
-­((X)^2)+C→Y
-Disp A,"X + ",X,Y
-Repeat getKey
-End
