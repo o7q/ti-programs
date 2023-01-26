@@ -5,4 +5,8 @@ Prompt C
 (B)^2-4(A)(C)→Y
 2A→Z
 Disp "Steps",X,Y,Z
-Disp "XX",(X+√(Y))/Z,(X-√(Y))/Z
+Repeat getKey
+End
+Disp "ZEROS",(X+√(Y))/Z,(X-√(Y))/Z
+Repeat getKey
+End

@@ -7,6 +7,12 @@ Prompt Y
 X→B
 Y→D
 (A-B)^2+(C-D)^2→E
-Disp "Distance",E,√(E)
+Disp "Distance",√(E),"Distance^2",E
+Repeat getKey
+End
 Disp "Midpoint",(A+B)/2,(C+D)/2
+Repeat getKey
+End
 Disp "Slope",C-D,A-B
+Repeat getKey
+End
