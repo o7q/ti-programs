@@ -1,0 +1,6 @@
+Prompt A
+Prompt B
+A^2+B^2→X
+Disp "C",√(X),"C^2",X
+Repeat getKey
+End
