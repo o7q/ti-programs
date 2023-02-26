@@ -7,6 +7,6 @@ Prompt C
 Disp "Steps",X,Y,Z
 Repeat getKey
 End
-Disp "ZEROS",(X+√(Y))/Z,(X-√(Y))/Z
+Disp "Zeroes",(X+√(Y))/Z,(X-√(Y))/Z
 Repeat getKey
 End

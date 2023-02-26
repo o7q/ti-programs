@@ -1,0 +1,21 @@
+Prompt A
+Prompt B
+Prompt C
+Disp "Sine A",A/C
+Repeat getKey
+End
+Disp "Cosine A",B/C
+Repeat getKey
+End
+Disp "Tangent A",A/B
+Repeat getKey
+End
+Disp "Sine B",B/C
+Repeat getKey
+End
+Disp "Cosine B",A/C
+Repeat getKey
+End
+Disp "Tangent B",B/A
+Repeat getKey
+End

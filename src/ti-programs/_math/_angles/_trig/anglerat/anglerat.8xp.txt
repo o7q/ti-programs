@@ -1,0 +1,20 @@
+Prompt A
+Prompt B
+Disp "Sine A",sin(A)
+Repeat getKey
+End
+Disp "Cosine A",cos(A)
+Repeat getKey
+End
+Disp "Tangent A",tan(A)
+Repeat getKey
+End
+Disp "Sine B",sin(B)
+Repeat getKey
+End
+Disp "Cosine B",cos(B)
+Repeat getKey
+End
+Disp "Tangent B",tan(B)
+Repeat getKey
+End

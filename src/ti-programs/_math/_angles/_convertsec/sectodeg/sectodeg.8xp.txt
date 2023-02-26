@@ -1,0 +1,4 @@
+Prompt A
+Prompt B
+Prompt C
+Disp "Degrees",A+(B/60)+(C/3600)
