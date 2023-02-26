@@ -1,10 +1,10 @@
-Prompt A
-Disp "Degrees",int(A)
+Prompt D
+Disp "Degrees",int(D)
 Repeat getKey
 End
-Disp "Minutes",int((A-int(A))*60)
+Disp "Minutes",int((D-int(D))*60)
 Repeat getKey
 End
-Disp "Seconds",((A-int(A))*60-int((A-int(A))*60))*60
+Disp "Seconds",((D-int(D))*60-int((D-int(D))*60))*60
 Repeat getKey
 End

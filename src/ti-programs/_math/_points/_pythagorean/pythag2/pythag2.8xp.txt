@@ -2,3 +2,5 @@ Prompt A
 Prompt C
 (C^2)-(A^2)→X
 Disp "B",√(X),"B^2",X
+Repeat getKey
+End

@@ -1,4 +1,4 @@
-Prompt A
-Prompt B
-Prompt C
-Disp "Degrees",A+(B/60)+(C/3600)
+Prompt D
+Prompt M
+Prompt S
+Disp "Degrees",D+(M/60)+(S/3600)
